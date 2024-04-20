@@ -14,4 +14,5 @@ Models Used
 
 👉 VGG16
 👉 RESNET-50
-👉 VGG16
+👉 Inception v3
+
